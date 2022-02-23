@@ -44,3 +44,17 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+#----------------------------------
+# added bu sig
+
+.metadata
+analysis_options.yaml
+android/
+ios/
+#lib/
+pubspec.lock
+pubspec.yaml
+test/
+
